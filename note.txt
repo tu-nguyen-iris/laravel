@@ -1,0 +1,4 @@
+php artisan >
+php artisan make:model [name] -m > tao mirgate database
+composer require tymon/jwt-auth > assets token when login success
+
